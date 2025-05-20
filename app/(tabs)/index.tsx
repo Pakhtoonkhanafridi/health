@@ -17,7 +17,7 @@ export default function HomeScreen() {
         />
       }>
       <ThemedView style={styles.titleContainer}>
-        <ThemedText type="title">Welcome! pakhtoon Khan afridi making Android App</ThemedText>
+        <ThemedText type="title">Welcome! pakhtoon Khan afridi </ThemedText>
         <HelloWave />
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
